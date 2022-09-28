@@ -1,0 +1,11 @@
+{
+    "Co2Cost": {
+        "gas": 0.3
+    },
+    "FreePowerplantTypes": ["windturbine"],
+    "TypeToFuel": {
+        "gasfired": "gas",
+        "turbojet": "kerosine",
+        "windturbine": "wind"
+    }
+}
